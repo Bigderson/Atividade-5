@@ -1,0 +1,69 @@
+.card{
+    width: 320px;
+    padding: 15px 15px 15px 15px;
+    background: #fff;
+    border: 1px solid #cac9c9;
+    border-radius: 40px 40px 40px 40px;
+    margin: auto;
+    box-shadow: 12px 12px 12px #1f1f1f;
+}
+
+.main img{
+
+    width: 353px;
+    border-radius: 40px 40px 0px 0px;
+    margin-top: -15px;
+    margin-left: -16px;
+
+}
+.dist{
+    margin-left: 250px;
+    margin-top: -60px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.estrelas img{
+    max-width: 90px;
+    max-height: 150px;
+    width: auto;
+    height: auto; 
+}
+
+.h2{
+    margin-left: 94px;
+    margin-top: -32px;
+    margin-bottom: 15px;
+    font-size: 10px;
+}
+
+.dias{
+    text-align: center;
+}
+
+.horario1{
+    margin-left: 40px;
+    margin-top: -35px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.horario2{
+    margin-left: 130px;
+    margin-top: -55px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.horario3{
+    margin-left: 220px;
+    margin-top: -55px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.reserva{
+    text-align: center;
+    color: rgb(110, 110, 240);
+    font-size: 45px;
+}
